@@ -47,3 +47,31 @@
     }
   ]
 }
+{
+  "brand": "Volkswagen",
+  "model": "Golf 7",
+  "engine": "1.6 TDI (CLHA/CRKB)",
+  "years": "2012-2020",
+  "technical_data": {
+    "oil_viscosity": "5W-30",
+    "oil_capacity": "4.6L",
+    "oil_spec": "VW 507 00",
+    "bolt_torque": "30 Nm"
+  },
+  "maintenance_intervals": {
+    "periodic": "15.000 KM",
+    "heavy": "210.000 KM (Triger Seti)"
+  }
+},
+{
+  "brand": "BMW",
+  "model": "3 Serisi (F30)",
+  "engine": "320d (N47/B47)",
+  "years": "2012-2019",
+  "technical_data": {
+    "oil_viscosity": "5W-30 / 0W-30",
+    "oil_capacity": "5.2L",
+    "oil_spec": "BMW Longlife-04",
+    "bolt_torque": "25 Nm"
+  }
+}
