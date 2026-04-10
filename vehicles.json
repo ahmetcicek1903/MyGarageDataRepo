@@ -75,3 +75,124 @@
     "bolt_torque": "25 Nm"
   }
 }
+[
+  {
+    "id": 10,
+    "brand": "Opel",
+    "model": "Vectra C",
+    "engine": "1.9 CDTI (Z19DTH)",
+    "years": "2002-2008",
+    "technical_data": {
+      "oil_viscosity": "5W-30",
+      "oil_capacity": "4.3L",
+      "oil_spec": "Dexos 2",
+      "bolt_torque": "25 Nm"
+    },
+    "maintenance_intervals": {
+      "periodic": "15.000 KM",
+      "heavy": "150.000 KM (Triger Kayışı)"
+    }
+  },
+  {
+    "id": 11,
+    "brand": "Opel",
+    "model": "Vectra B",
+    "engine": "2.0 DTI (X20DTH)",
+    "years": "1995-2002",
+    "technical_data": {
+      "oil_viscosity": "10W-40 / 5W-30",
+      "oil_capacity": "5.5L",
+      "oil_spec": "GM-LL-B-025",
+      "bolt_torque": "110 Nm (Bijon)"
+    },
+    "maintenance_intervals": {
+      "periodic": "10.000 KM",
+      "heavy": "Zincirli Motor"
+    }
+  },
+  {
+    "id": 12,
+    "brand": "Opel",
+    "model": "Zafira B",
+    "engine": "1.9 CDTI",
+    "years": "2005-2014",
+    "technical_data": {
+      "oil_viscosity": "5W-30",
+      "oil_capacity": "4.3L",
+      "oil_spec": "Dexos 2",
+      "bolt_torque": "14 Nm (Filtre kapağı)"
+    },
+    "maintenance_intervals": {
+      "periodic": "15.000 KM",
+      "heavy": "120.000 KM"
+    }
+  },
+  {
+    "id": 13,
+    "brand": "Opel",
+    "model": "Combo C",
+    "engine": "1.3 CDTI",
+    "years": "2001-2011",
+    "technical_data": {
+      "oil_viscosity": "5W-30",
+      "oil_capacity": "3.2L",
+      "oil_spec": "Dexos 2",
+      "bolt_torque": "140 Nm (Bijon)"
+    },
+    "maintenance_intervals": {
+      "periodic": "15.000 KM",
+      "heavy": "150.000 KM (Zincir)"
+    }
+  },
+  {
+    "id": 14,
+    "brand": "Opel",
+    "model": "Crossland / X",
+    "engine": "1.5 Turbo Diesel",
+    "years": "2017-2024",
+    "technical_data": {
+      "oil_viscosity": "0W-30 / 0W-20",
+      "oil_capacity": "3.75L",
+      "oil_spec": "B71 2312 / B71 2010",
+      "bolt_torque": "25 Nm"
+    },
+    "maintenance_intervals": {
+      "periodic": "15.000 KM",
+      "heavy": "100.000 KM (Triger)"
+    }
+  },
+  {
+    "id": 15,
+    "brand": "Opel",
+    "model": "Grandland / X",
+    "engine": "1.5 Turbo Diesel (PSA)",
+    "years": "2017-2024",
+    "technical_data": {
+      "oil_viscosity": "0W-20 / 0W-30",
+      "oil_capacity": "4.0L",
+      "oil_spec": "OV0401547",
+      "bolt_torque": "25 Nm"
+    },
+    "maintenance_intervals": {
+      "periodic": "15.000 KM",
+      "heavy": "100.000 KM"
+    }
+  },
+  {
+    "id": 16,
+    "brand": "Opel",
+    "model": "Meriva B",
+    "engine": "1.3 CDTI",
+    "years": "2010-2017",
+    "technical_data": {
+      "oil_viscosity": "5W-30",
+      "oil_capacity": "3.2L",
+      "oil_spec": "Dexos 2",
+      "bolt_torque": "140 Nm"
+    },
+    "maintenance_intervals": {
+      "periodic": "15.000 KM",
+      "heavy": "150.000 KM"
+    }
+  }
+]
